@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87417483322",
+    "firebase_url": "https://loginieca-20334.firebaseio.com",
+    "project_id": "loginieca-20334",
+    "storage_bucket": "loginieca-20334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87417483322:android:fc6093f3d1533d045e8503",
+        "android_client_info": {
+          "package_name": "com.example.loginieca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87417483322-pe6v5pufg8qfdbv0etbtgetpbfptsq8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginieca",
+            "certificate_hash": "fc774084900eabbb715b2ff74613b8010e0c6031"
+          }
+        },
+        {
+          "client_id": "87417483322-30uubp8gdqeqtvldk5dgfd6icboiacgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGaNSeC00TFXSK1g6bW4G_TGnnkwxkBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87417483322-30uubp8gdqeqtvldk5dgfd6icboiacgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

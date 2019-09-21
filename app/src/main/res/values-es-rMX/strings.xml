@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">LoginIECA</string>
+<string name="enter_email">Ingrese un Email</string>
+<string name="enter_password">Ingrese la contraseña</string>
+<string name="registrar">Registrar usuario</string>
+<string name="login">Loguearse</string>
+<string name="msgNSelected">No selected file</string>
+<string name="btnChooseFile">Choose File></string>
+<string name="btnUpload">Upload</string>
+<string name="txtFileName">Filename</string>
+<string name="msgSuccess">Upload successful</string>
+<string name="msgInProgress">Upload in progress</string>
+<string name="btnShowImages">gdgdgshsh</string>
+
+</resources>
